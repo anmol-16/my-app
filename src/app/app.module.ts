@@ -9,7 +9,7 @@ import { NumToWordsPipe } from './num-to-words.pipe';
 import { Feature1Module } from './feature1/feature1.module';
 import { Feature2Module } from './feature2/feature2.module';
 import { Feature3Module } from './feature3/feature3.module';
-
+import { SharedModule } from './shared/shared.module';
 @NgModule({
   declarations: [
     AppComponent,
